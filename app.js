@@ -1,1 +1,1 @@
-console.log("Random things);
+console.log("Random things");
